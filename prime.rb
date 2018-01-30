@@ -13,6 +13,7 @@ def prime?(num)
       break
     end
   end
+  answer
 end
 
 # def test
