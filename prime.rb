@@ -11,7 +11,7 @@ def prime?(num)
 end
 
 def test
-  if prime?(6)
+  if prime?(7)
     puts "It's a prime."
   end
 end
