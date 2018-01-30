@@ -10,5 +10,8 @@ def prime?(num)
   end
 end
 
-
-prime?(6)
+def test
+if prime?(6)
+  puts "It's a prime."
+end
+end
