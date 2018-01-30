@@ -23,4 +23,10 @@ def prime?(num)
   end
 end
 
-prime?(4)
+def test
+  if prime(4)
+    puts "True"
+  else
+    puts "False"
+  end
+end
