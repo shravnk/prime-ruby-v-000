@@ -23,12 +23,12 @@ def prime?(num)
   end
 end
 
-def test
-  if prime?(5)
-    puts "True"
-  else
-    puts "False"
-  end
-end
-
-test
+# def test
+#   if prime?(5)
+#     puts "True"
+#   else
+#     puts "False"
+#   end
+# end
+# 
+# test
