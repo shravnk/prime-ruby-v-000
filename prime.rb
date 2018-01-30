@@ -10,10 +10,10 @@ def prime?(num)
   end
 end
 
-def test
-  if prime?(7)
-    puts "It's a prime."
-  end
-end
-
-test
+# def test
+#   if prime?(7)
+#     puts "It's a prime."
+#   end
+# end
+# 
+# test
