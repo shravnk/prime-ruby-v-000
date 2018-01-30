@@ -30,3 +30,5 @@ def test
     puts "False"
   end
 end
+
+test
