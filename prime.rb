@@ -11,9 +11,9 @@ def prime?(num)
 end
 
 def test
-if prime?(6)
-  puts "It's a prime."
-end
+  if prime?(6)
+    puts "It's a prime."
+  end
 end
 
 test
