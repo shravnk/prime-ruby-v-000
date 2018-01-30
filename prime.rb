@@ -24,7 +24,7 @@ def prime?(num)
 end
 
 def test
-  if prime?(10)
+  if prime?(5)
     puts "True"
   else
     puts "False"
