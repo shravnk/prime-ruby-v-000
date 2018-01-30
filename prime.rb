@@ -19,7 +19,7 @@ def prime?(num)
        i += w
        w = 6 - w
      end
-     
+
   end
 end
 
@@ -30,5 +30,5 @@ end
 #     puts "False"
 #   end
 # end
-# 
+#
 # test
