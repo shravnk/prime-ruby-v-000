@@ -11,13 +11,15 @@ def prime?(num)
   else
     i = 5
     w = 2
-    
+
     while i * i <= num
      if n % i == 0
          return false
      end
      i += w
-     w = 6 - w  
+     w = 6 - w
    end
    return true
 end
+
+prime?(4)
